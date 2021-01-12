@@ -7,6 +7,9 @@ import { LoginComponent } from './paginas/login/login.component';
 
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ReactiveFormsModule } from '@angular/forms';
+
+
 
 @NgModule({
   declarations: [
